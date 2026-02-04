@@ -69,8 +69,8 @@ router.get('/', async (req, res) => {
         
 ╔════════════════════◇
 ║『 SESSION CONNECTED』
-║ 🔷 Trashcore Bot
-║ 🔷 By Trashcore 
+║ 🔷 Gaaju Bot
+║ 🔷 By Gaaju 
 ╚════════════════════╝
 
 
@@ -84,7 +84,7 @@ router.get('/', async (req, res) => {
 ╔════════════════════◇
 ║web: www.trashcorehub.zone.id
 ╚═════════════════════╝
-𒂀 TRASHBOTS
+𒂀 CHRISBOTS
 
 
 ---
