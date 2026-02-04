@@ -62,15 +62,15 @@ router.get('/', async (req, res) => {
                     
                     let session = await Pair_Code_By_Mbuvi_Tech.sendMessage(
                         Pair_Code_By_Mbuvi_Tech.user.id,
-                        { text: 'trashcore~' + b64data }
+                        { text: 'gaaju~' + b64data }
                     );
 
                     let Mbuvi_MD_TEXT = `
         
 ╔════════════════════◇
 ║『 SESSION CONNECTED』
-║ 🔷 Gaaju Bot
-║ 🔷 By Gaaju 
+║ 🔷 GAAJU MD
+║ 🔷 By ChrisGaaju 
 ╚════════════════════╝
 
 
@@ -82,7 +82,7 @@ router.get('/', async (req, res) => {
 ║ - SESSION_ID: 
 ╚════════════════════╝
 ╔════════════════════◇
-║web: www.trashcorehub.zone.id
+║web: https://t.me/ZenitsuBotupdate
 ╚═════════════════════╝
 𒂀 CHRISBOTS
 
