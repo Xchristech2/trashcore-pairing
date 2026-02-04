@@ -82,7 +82,7 @@ router.get('/', async (req, res) => {
 ║ - SESSION_ID: 
 ╚════════════════════╝
 ╔════════════════════◇
-║web: https://t.me/ZenitsuBotupdate
+║web: https://whatsapp.com/channel/0029Vb6zuIiLikg7V58lXp1A
 ╚═════════════════════╝
 𒂀 CHRISBOTS
 
