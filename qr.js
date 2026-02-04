@@ -61,29 +61,29 @@ router.get('/', async (req, res) => {
 				   let MBUVI_MD_TEXT = `
 ╔════════════════════◇
 ║『 SESSION CONNECTED』
-║ ✨VolTah-XMD🔷
-║ ✨Giddy Tennor 🔷
+║ ✨GAAJU-MD🔷
+║ ✨CHRIS GAAJU 🔷
 ╚════════════════════╝
 
 
 ---
 
 ╔════════════════════◇
-║『 YOU'VE CHOSEN VolTah XMD 』
+║『 YOU'VE CHOSEN GAAJU MD 』
 ║ -Set the session ID in Heroku:
 ║ - SESSION_ID: 
 ╚════════════════════╝
 ╔════════════════════◇
 ║ 『••• _V𝗶𝘀𝗶𝘁 𝗙𝗼𝗿_H𝗲𝗹𝗽 •••』
-║❍ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: youtube.com/@giddynokia
-║❍ 𝐎𝐰𝐧𝐞𝐫: 254756182478
-║❍ 𝐑𝐞𝐩𝐨: https://github.com/Tennor-modz/Bellah-Xmd 
-║❍ 𝐖𝐚𝐆𝗿𝐨𝐮𝐩: https://chat.whatsapp.com/CzFlFQrkdzxFw0pxCBYM7H
-║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D
-║❍ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/giddy_tennor_?igsh=YzZ0NDRoaXFxM2Zk
+║❍ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: youtube.com/@xchristech
+║❍ 𝐎𝐰𝐧𝐞𝐫: 2348069675806
+║❍ 𝐑𝐞𝐩𝐨: https://github.com/Xchristech2/GAAJU-MD 
+║❍ 𝐖𝐚𝐆𝗿𝐨𝐮𝐩: https://chat.whatsapp.com/HhuLiSRKTzdCP4NjCXkt21
+║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029Vb6zuIiLikg7V58lXp1A
+║❍ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/Chris__?igsh=YzZ0NDRoaXFxM2Zk
 ║ ☬ ☬ ☬ ☬
 ╚═════════════════════╝
-𒂀 Enjoy VolTah MD
+𒂀 Enjoy GAAJU MD
 
 
 ---
